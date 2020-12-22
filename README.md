@@ -38,7 +38,7 @@ I love collaborating with other developers so feel free to send me a message!
 
 ### Currently working on
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kristian-roopnarine&repo=BugTracker)](https://github.com/Kristian-Roopnarine/BugTracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kristian-roopnarine&repo=BugTracker)](https://github.com/Kristian-Roopnarine/Bug-Tracker-Flask)
 ---
 
   
