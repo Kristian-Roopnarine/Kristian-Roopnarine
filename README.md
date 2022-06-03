@@ -36,11 +36,6 @@ I love collaborating with other developers so feel free to send me a message!
   </a>
 </p>
 
-### Currently working on
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kristian-roopnarine&repo=BugTracker)](https://github.com/Kristian-Roopnarine/Bug-Tracker-Flask)
----
-
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kristian-roopnarine&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
