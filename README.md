@@ -36,9 +36,6 @@ I love collaborating with other developers so feel free to send me a message!
   </a>
 </p>
 
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kristian-roopnarine&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,glsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
