@@ -1,6 +1,6 @@
 ### Hey, welcome to my GitHub!
 <p>
-  My name is Kristian Roopnarine and I am a Full Stack Web developer specializing in Javascript and Python. Currently I work for a small startup as a Full Stack Engineer working on their web and mobile application. On the side I tutor and help other break into programming. I write articles on programming on <a href="https://kristian-roopnarine.medium.com/"> Medium </a> and <a href="https://dev.to/kristianroopnarine"> dev.to </a> and will hopefully get a YouTube channel running soon.
+  My name is Kristian Roopnarine and I am a Full Stack Web developer specializing in Javascript and Python. Currently I work for FINRA as a Full Stack Developer. On the side I tutor and help other break into programming. I write articles on programming on <a href="https://kristian-roopnarine.medium.com/"> Medium </a> and <a href="https://dev.to/kristianroopnarine"> dev.to </a> and will hopefully get a YouTube channel running soon.
 </p>
 
 ---
